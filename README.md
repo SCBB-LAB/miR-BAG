@@ -60,4 +60,4 @@ Note: User can use any number of filtering options by providing a value between 
  java -jar Mirbag-filter.jar input_file /output_destination 5 celegans 4 -100 15 0 30 0 5             
 
 
-The standalone version of miR-BAG available at: https://scbb.ihbt.res.in/SCBB_dept/images/miR_BAG.zip
+The standalone version of miR-BAG is available at: https://scbb.ihbt.res.in/SCBB_dept/images/miR_BAG.zip
