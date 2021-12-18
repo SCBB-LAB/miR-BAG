@@ -58,3 +58,6 @@ java -jar Mirbag-filter.jar input_file_name output_destination_directory no_of_p
 For e.g.  java -jar Mirbag-filter.jar input_file /output_destination 5 celegans 6 -100 15 60 30 5 5
 Note: User can use any number of filtering options by providing a value between 1 to 6 as 5th argument to above command. Also if user do not want to use any filtering option then he/she has to enter 0 value as command line argument. For e.g. if you do not want to use "stem length" and "Mismatch" filters then our command will be as: 
  java -jar Mirbag-filter.jar input_file /output_destination 5 celegans 4 -100 15 0 30 0 5             
+
+
+The standalone version of miR-BAG can be found at: https://scbb.ihbt.res.in/SCBB_dept/images/miR_BAG.zip
