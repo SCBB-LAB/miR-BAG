@@ -64,3 +64,6 @@ Note: User can use any number of filtering options by providing a value between 
 
 
 The standalone version of miR-BAG is available at: https://scbb.ihbt.res.in/SCBB_dept/images/miR_BAG.zip
+
+
+Citation: Jha A, Chauhan R, Mehra M, Singh HR, Shankar R (2012) miR-BAG: Bagging Based Identification of MicroRNA Precursors. PLoS ONE 7(9): e45782. https://doi.org/10.1371/journal.pone.0045782
